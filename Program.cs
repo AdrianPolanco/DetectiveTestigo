@@ -1,0 +1,3 @@
+﻿using Funciones;
+
+Inicio.Menu();

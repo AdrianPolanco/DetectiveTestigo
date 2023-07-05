@@ -1,0 +1,15 @@
+C:\Users\adfer\OneDrive\Escritorio\DetectiveTestigo\bin\Debug\net7.0\DetectiveTestigo.exe
+C:\Users\adfer\OneDrive\Escritorio\DetectiveTestigo\bin\Debug\net7.0\DetectiveTestigo.deps.json
+C:\Users\adfer\OneDrive\Escritorio\DetectiveTestigo\bin\Debug\net7.0\DetectiveTestigo.runtimeconfig.json
+C:\Users\adfer\OneDrive\Escritorio\DetectiveTestigo\bin\Debug\net7.0\DetectiveTestigo.dll
+C:\Users\adfer\OneDrive\Escritorio\DetectiveTestigo\bin\Debug\net7.0\DetectiveTestigo.pdb
+C:\Users\adfer\OneDrive\Escritorio\DetectiveTestigo\obj\Debug\net7.0\DetectiveTestigo.csproj.AssemblyReference.cache
+C:\Users\adfer\OneDrive\Escritorio\DetectiveTestigo\obj\Debug\net7.0\DetectiveTestigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adfer\OneDrive\Escritorio\DetectiveTestigo\obj\Debug\net7.0\DetectiveTestigo.AssemblyInfoInputs.cache
+C:\Users\adfer\OneDrive\Escritorio\DetectiveTestigo\obj\Debug\net7.0\DetectiveTestigo.AssemblyInfo.cs
+C:\Users\adfer\OneDrive\Escritorio\DetectiveTestigo\obj\Debug\net7.0\DetectiveTestigo.csproj.CoreCompileInputs.cache
+C:\Users\adfer\OneDrive\Escritorio\DetectiveTestigo\obj\Debug\net7.0\DetectiveTestigo.dll
+C:\Users\adfer\OneDrive\Escritorio\DetectiveTestigo\obj\Debug\net7.0\refint\DetectiveTestigo.dll
+C:\Users\adfer\OneDrive\Escritorio\DetectiveTestigo\obj\Debug\net7.0\DetectiveTestigo.pdb
+C:\Users\adfer\OneDrive\Escritorio\DetectiveTestigo\obj\Debug\net7.0\DetectiveTestigo.genruntimeconfig.cache
+C:\Users\adfer\OneDrive\Escritorio\DetectiveTestigo\obj\Debug\net7.0\ref\DetectiveTestigo.dll
